@@ -1,1 +1,1 @@
-web: gunicorn DBT.whatsapp_bot.bot:app
+web: gunicorn app:app
