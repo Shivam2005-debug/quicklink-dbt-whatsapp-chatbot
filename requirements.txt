@@ -8,11 +8,11 @@ flask>=2.3.0
 
 # Text-to-Speech & Audio Processing
 gtts>=2.4.0
-pygame>=2.5.0
+#pygame>=2.5.0
 
 # Speech-to-Text (if needed)
 SpeechRecognition>=3.10.0
-pyaudio>=0.2.11
+#pyaudio>=0.2.11
 
 # Environment Variables & Configuration
 python-dotenv>=1.0.0
@@ -24,7 +24,7 @@ requests>=2.31.0
 langdetect>=1.0.9
 
 # File Handling & Utilities
-python-magic>=0.4.27
+#python-magic>=0.4.27
 
 # Audio Format Conversion (optional)
 pydub>=0.25.1
