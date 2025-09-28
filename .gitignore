@@ -22,13 +22,13 @@ dist-ssr
 .env
 
 # Python
-    venv/
-    _pycache_/
-    *.pyc
+venv/
+_pycache_/
+*.pyc
 
 # Temporary files
-    temp_audio/
-    ngrok.exe
+temp_audio/
+ngrok.exe
 
 # Editor directories and files
 .vscode/*
