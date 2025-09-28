@@ -1,0 +1,41 @@
+# DBT WhatsApp Bot - Requirements
+# Core LLM Integration
+google-generativeai>=0.3.0
+
+# WhatsApp Bot (Twilio)
+twilio>=8.5.0
+flask>=2.3.0
+
+# Text-to-Speech & Audio Processing
+gtts>=2.4.0
+pygame>=2.5.0
+
+# Speech-to-Text (if needed)
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.11
+
+# Environment Variables & Configuration
+python-dotenv>=1.0.0
+
+# Data Processing & Utilities
+requests>=2.31.0
+
+# Language Detection (optional enhancement)
+langdetect>=1.0.9
+
+# File Handling & Utilities
+python-magic>=0.4.27
+
+# Audio Format Conversion (optional)
+pydub>=0.25.1
+
+# HTTP Client (for API calls)
+httpx>=0.24.0
+
+# JSON handling and validation
+jsonschema>=4.17.0
+
+soundfile
+numpy
+
+gunicorn 
